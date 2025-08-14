@@ -1,0 +1,6 @@
+pyiso8583
+sqlalchemy
+httpx
+python-dotenv
+flask
+requests
